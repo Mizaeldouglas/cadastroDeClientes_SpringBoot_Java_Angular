@@ -20,6 +20,7 @@ public class Servico {
     @JoinColumn(name = "cliente_id")
     private Cliente cliente;
 
+
     @Column
     private BigDecimal valor;
 
