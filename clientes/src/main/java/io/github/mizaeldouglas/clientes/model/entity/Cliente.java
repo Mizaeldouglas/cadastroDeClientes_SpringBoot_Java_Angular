@@ -1,4 +1,4 @@
-package io.mizaeldouglas.model.entity;
+package io.github.mizaeldouglas.clientes.model.entity;
 
 import lombok.Data;
 
